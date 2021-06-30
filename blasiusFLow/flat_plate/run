@@ -1,0 +1,4 @@
+./Allclean
+blockMesh
+icoFoam
+touch blasiusFlow.foam
